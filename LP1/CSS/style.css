@@ -1,0 +1,117 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background: #0226FD;
+    color: #FFFFFF;
+    padding: 12px;
+    text-align: center;
+}
+
+footer{
+    background: #0226FD;
+    color: #FFFFFF;
+    clear: right;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbar{
+    background: #3552FD;
+    color: #FFFFFF;
+    padding: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    font-size: 25px;
+    word-spacing: 30px;
+}
+
+.sidebar{
+    background: #FFFFFF;
+    border: 10px #000000;
+    box-shadow: 1px 1px 6px #696969;
+    float: right;
+    padding: 15px;
+    right: 150px;
+    width: auto;
+    max-width: 20%;
+    margin-left: 10x;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.input{
+    margin: 15px;
+    padding: 15px;
+    width: 95%;
+}
+
+h2, h3{
+    color: #0226FD;
+}
+
+.profile{
+    color: #595959;
+    text-align: left;
+}
+
+.form{
+    color: #595959;
+    font-size: medium;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.submit{
+    background: #0226FD;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+    width: 98%;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p{
+    color: #595959;
+    text-align: justify;
+}
+
+.logo{
+    width: auto;
+    height: auto;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.content{
+    background: #FFFFFF;
+    border: 10px #000000;
+    box-shadow: 1px 1px 6px #696969;
+    margin-right: 10px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    width: 75%;
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+a:link, a:visited{
+    color: #FFFFFF;
+    text-decoration: none;
+}
